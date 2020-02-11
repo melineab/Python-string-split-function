@@ -1,0 +1,16 @@
+Python string split function
+
+
+Implement a split function for splitting a string by specified separator 
+(similar to built-in split method of str type). 
+The resulted function must return exact same result as the built-in method. 
+The separator must contain at least one character.
+
+
+
+Example:
+
+
+print(split(' hello there  my dear friends !!!', '  ')
+)
+print(' hello there  my dear friends !!!'.split('  '))
